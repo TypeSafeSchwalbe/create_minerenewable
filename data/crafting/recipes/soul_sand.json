@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "heatRequirement": "heated"
+}

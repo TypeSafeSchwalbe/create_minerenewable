@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_nugget",
+      "count": 1,
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 250
+}

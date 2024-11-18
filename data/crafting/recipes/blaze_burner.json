@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XZX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:blaze_rod"
+    },
+    "Y": {
+      "item": "minecraft:soul_sand"
+    },
+    "Z": {
+      "item": "create:empty_blaze_burner"
+    }
+  },
+  "result": {
+    "item": "create:blaze_burner",
+    "count": 1
+  }
+}

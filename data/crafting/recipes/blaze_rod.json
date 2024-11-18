@@ -1,0 +1,64 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "transitionalItem": {
+    "item": "minecraft:coal_block"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "loops": 4
+}

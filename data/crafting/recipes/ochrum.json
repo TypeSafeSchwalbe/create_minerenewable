@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:ochrum",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}
